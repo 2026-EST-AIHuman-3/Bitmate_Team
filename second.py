@@ -1,0 +1,2 @@
+def second():
+    print("두번째 파일입니다.")
